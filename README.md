@@ -1,2 +1,2 @@
-# ML_algorithms_regression
+# ML_algorithms
 Multiple linear regression 
